@@ -1,0 +1,57 @@
+﻿{
+  "Ingredienten": [
+    {
+      "Id": 0,
+      "IngredientNaam": "Aardappel"
+    },
+    {
+      "Id": 1,
+      "IngredientNaam": "Gehakt"
+    },
+    {
+      "Id": 2,
+      "IngredientNaam": "Spaghetti"
+    },
+    {
+      "Id": 3,
+      "IngredientNaam": "Schnitzel"
+    },
+    {
+      "Id": 4,
+      "IngredientNaam": "Rijst"
+    },
+    {
+      "Id": 5,
+      "IngredientNaam": "Kipdijfilet"
+    },
+    {
+      "Id": 6,
+      "IngredientNaam": "Broccoli"
+    },
+    {
+      "Id": 7,
+      "IngredientNaam": "Tomatensaus"
+    },
+    {
+      "Id": 8,
+      "IngredientNaam": "Sperziebonen"
+    }
+  ],
+  "Recepten": [
+    {
+      "Id": 0,
+      "ReceptNaam": "Spaget blognesh",
+      "BenodigdeIngredienten": [ 1, 2, 7 ]
+    },
+    {
+      "Id": 1,
+      "ReceptNaam": "Gekookte piepers met broccoli en hakkieballen",
+      "BenodigdeIngredienten": [ 0, 1, 6 ]
+    },
+    {
+      "Id": 2,
+      "Receptnaam": "Rijst met sperziebonen en kipdijfilet",
+      "BenodigdeIngredienten": [ 4, 8, 5 ]
+    }
+  ]
+}
