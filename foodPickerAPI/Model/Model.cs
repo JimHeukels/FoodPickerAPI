@@ -29,15 +29,4 @@ namespace foodPicker.Model
         public Ingredient[] Ingredienten { get; set; }
         public DB_Recept[] Recepten { get; set; }
     }
-
-/*    public class FitbitDB
-    {
-        public FitbitDataEntry[] BolongoBased { get; set; }
-    }*/
-
-    public class FitbitDataEntry
-    {
-        public DateTime Date { get; set; }
-        public int DurationInSeconds { get; set; }
-    }
 }
